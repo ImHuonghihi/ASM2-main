@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb').MongoClient;
-const url =  "mongodb+srv://lananh20:lananh20@cluster0.vq08y.mongodb.net/test";
+const url =  "mongodb+srv://huong:123456@cluster0.vq08y.mongodb.net/test";
 const dbName = "Test";
 
 async function getDbo() {
